@@ -1,4 +1,4 @@
-TEAM NAME: Section E1
+## TEAM NAME: Section E1
 
 ## Our Team
 
