@@ -1,8 +1,11 @@
-# TODO: Replace with your team name
+TEAM NAME: Section E1
 
 ## Our Team
 
-TODO: Replace with your team members
+1. Alexis Evans
+2. {enter}
+3. {enter}
+4. {enter}
 
 ## How to run the streamlit app
 
