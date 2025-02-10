@@ -3,7 +3,7 @@
 ## Our Team
 
 1. Alexis Evans
-2. {enter}
+2. Stanley Navarrete
 3. {enter}
 4. {enter}
 
