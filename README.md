@@ -5,7 +5,7 @@
 1. Alexis Evans
 2. Stanley Navarrete
 3. Diego Perez Rivera 
-4. {enter}
+4. Neayla Jones
 
 ## How to run the streamlit app
 
